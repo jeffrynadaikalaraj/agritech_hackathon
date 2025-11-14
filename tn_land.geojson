@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "farmer_id": 1001,
+        "land_id": "TN-MAD-001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9252,
+          78.1198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "farmer_id": 1002,
+        "land_id": "TN-CHN-001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0827,
+          80.2707
+        ]
+      }
+    }
+  ]
+}
